@@ -1,0 +1,18 @@
+.Camel{
+border:solid;
+justify-content: space-evenly;
+background-color: aqua;
+display: flex;
+}
+h1{ 
+    border: solid;
+    font-style: italic;
+    font: bold;
+   background-color: chartreuse;
+   font-size:xx-large;
+   justify-content: space-evenly;
+   display: flex;
+}
+
+
+
